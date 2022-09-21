@@ -1,4 +1,4 @@
-<img width="100%" src="https://media3.giphy.com/media/hVazFLob1BnLpuWoXx/giphy.gif"/>
+<img width="100%" src="https://i.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.webp"/>
 
 <div align="center">
   <a href="https://github.com/juanlopes">
