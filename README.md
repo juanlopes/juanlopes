@@ -1,6 +1,5 @@
 # Juan Matheus Lopes  
 **Senior Software Engineer | FullStack Developer**  
-**Languages: Portuguese, English, Italian, Spanish**  
 🌍 Global | [dvlops.com.br](https://dvlops.com.br) | [LinkedIn](https://linkedin.com/in/juanlopes)
 
 ---
@@ -16,6 +15,8 @@
 ## 💼 Experience and Contributions:
 With 8 years of experience in software development, I have a solid technical foundation and a passion for solving complex problems efficiently. Throughout my career, I have worked on various projects, focusing on delivering solutions that connect the frontend to the backend, always aiming to optimize processes and improve the user experience.
 
+Additionally, I contributed to an **open-source project** to help the people of **Rio Grande do Sul** during a severe flood, leveraging my skills to make a real-world impact in a time of need.
+
 ---
 
 ## 🛠️ Agile Methodologies and Teamwork:
@@ -26,6 +27,14 @@ With 8 years of experience in software development, I have a solid technical fou
 
 ## 🚀 Goals and Motivation:
 What motivates me as a developer is the **ability to solve any kind of problem**, especially those that, at first glance, seem simple but involve great complexity. I believe that continuous learning and the pursuit of **new technologies** are essential to maintaining excellence in solution development. My long-term goal is to **grow into a Tech Lead position**, where I can help guide teams and positively impact projects and people.
+
+---
+
+## 🌍 Languages:
+- **Portuguese** (Native)  
+- **English** (Fluent)  
+- **Italian** (Intermediate)  
+- **Spanish** (Intermediate)
 
 ---
 
