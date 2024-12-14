@@ -1,35 +1,36 @@
 # Juan Matheus Lopes  
 **Senior Software Engineer | FullStack Developer**  
+**Languages: Portuguese, English, Italian, Spanish**  
 🌍 Global | [dvlops.com.br](https://dvlops.com.br) | [LinkedIn](https://linkedin.com/in/juanlopes)
 
 ---
 
-## 🔧 Especialidades Técnicas:
-- **Linguagens:** C#, TypeScript, JavaScript  
-- **Frameworks e Ferramentas:** .NET, React, Node.js  
-- **Áreas de Atuação:** Desenvolvimento FullStack  
-- **Destaque Técnico:** Desenvolvimento de soluções de comunicação assíncrona utilizando **SignalR** para comunicação de duas vias entre cliente e servidor.
+## 🔧 Technical Expertise:
+- **Languages:** C#, TypeScript, JavaScript  
+- **Frameworks and Tools:** .NET, React, Node.js  
+- **Areas of Focus:** FullStack Development  
+- **Technical Highlight:** Developed asynchronous communication solutions using **SignalR** for two-way communication between client and server.
 
 ---
 
-## 💼 Experiência e Contribuições:
-Com 8 anos de experiência no desenvolvimento de software, tenho uma sólida base técnica e uma paixão por resolver problemas complexos de forma eficiente. Ao longo da minha carreira, trabalhei em diversos projetos, com foco na entrega de soluções que conectam o frontend ao backend, sempre com o objetivo de otimizar processos e melhorar a experiência do usuário.
+## 💼 Experience and Contributions:
+With 8 years of experience in software development, I have a solid technical foundation and a passion for solving complex problems efficiently. Throughout my career, I have worked on various projects, focusing on delivering solutions that connect the frontend to the backend, always aiming to optimize processes and improve the user experience.
 
 ---
 
-## 🛠️ Metodologias Ágeis e Trabalho em Equipe:
-- Experiência prática com **Scrum** e **Kanban**, com foco em entregas rápidas e de alta qualidade.
-- Acredito que **colaboração** e **empatia** são essenciais para um bom ambiente de trabalho e para o sucesso dos projetos, sempre buscando aprender com os colegas e reconhecer o esforço de todos.
+## 🛠️ Agile Methodologies and Teamwork:
+- Practical experience with **Scrum** and **Kanban**, focusing on fast, high-quality deliveries.
+- I believe that **collaboration** and **empathy** are key to a good work environment and project success, always seeking to learn from my colleagues and acknowledge everyone's efforts.
 
 ---
 
-## 🚀 Objetivos e Motivação:
-O que me motiva como desenvolvedor é a **possibilidade de solucionar qualquer tipo de problema**, especialmente aqueles que, à primeira vista, parecem simples, mas envolvem grande complexidade. Acredito que o aprendizado contínuo e a busca por **novas tecnologias** são fundamentais para manter a excelência no desenvolvimento de soluções. Meu objetivo a longo prazo é **crescer para uma posição de Tech Lead**, onde poderei ajudar a guiar equipes e impactar positivamente os projetos e as pessoas.
+## 🚀 Goals and Motivation:
+What motivates me as a developer is the **ability to solve any kind of problem**, especially those that, at first glance, seem simple but involve great complexity. I believe that continuous learning and the pursuit of **new technologies** are essential to maintaining excellence in solution development. My long-term goal is to **grow into a Tech Lead position**, where I can help guide teams and positively impact projects and people.
 
 ---
 
-## 🎮 Interesses Pessoais:
-Quando não estou codificando, gosto de **pescar**, **resolver puzzles**, **ouvir música** e **jogar**. Também faço parte de um grupo de desenvolvedores .NET, onde troco experiências e continuo aprendendo sobre as últimas novidades e boas práticas dessa stack. Além de ter um humor específico 😂. 
+## 🎮 Personal Interests:
+When I'm not coding, I enjoy **fishing**, **solving puzzles**, **listening to music**, and **gaming**. I am also part of a .NET developer group, where I exchange experiences and continue learning about the latest updates and best practices in the stack. Plus, I have a particular sense of humor 😂. 
 
 ---
 
